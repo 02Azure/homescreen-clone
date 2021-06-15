@@ -1,5 +1,7 @@
 # Socialights Homescreen Clone
 
+**Best seen with Android ( tested with Samsung Galaxy E5 )**
+
 ## Not implemented
 - Ikon yang sama persis di navbar / badge. Semua pakai yang ada di Ion-icons
 - Semua gradient color di badge/card, karena react native tidak support secara  langsung gradient coloring
