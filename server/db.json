@@ -1,0 +1,272 @@
+{
+  "header_banners": [
+    { "id": 1, "image": "header1"},
+		{ "id": 2, "image": "header2"},
+		{ "id": 3, "image": "header3"}
+  ],
+	
+  "socialties": [
+    { 
+			"id": 1, 
+			"name": "GadgetIn", 
+			"field": "Technology", 
+			"image": "socialty1",
+			"reputation": 88.9,
+			"influence" : 99.7,
+			"badges": [],
+			"title": "Glossy Goddess",
+			"level": 999
+		},
+	   { 
+			"id": 2, 
+			"name": "iTechLife", 
+			"field": "Technology", 
+			"image": "socialty2",
+			"reputation": 88.9,
+			"influence" : 99.7,
+			"badges": [],
+			"title": "Glossy Goddess",
+			"level": 932
+		},
+    { 
+			"id": 3, 
+			"name": "JwestBros", 
+			"field": "Technology", 
+			"image": "socialty3",
+			"reputation": 89.9,
+			"influence" : 99.1,
+			"badges": [],
+			"title": "Glossy Goddess",
+			"level": 856
+		},
+    { 
+			"id": 4, 
+			"name": "Rachel Green", 
+			"field": "Shopping", 
+			"image": "socialty4",
+			"reputation": 95.1,
+			"influence" : 99.9,
+			"badges": [],
+			"title": "Glossy Goddess",
+			"level": 975
+		}
+  ],
+	
+  "ratings_items": [
+		{ 
+			"id": 1,
+			"name": "The Collapsible Travel Cup",
+			"bg_image": "ratingspic1",
+			"item_image": "ratingsitem1",
+			"brand": "Stojo",
+			"score": 4.8,
+			"reviews": 114324,
+			"label": "+SC 300M",
+			"hype_review": {
+				"content": "Here Goes The User's Shoutout Message",
+				"review_date": "2021-06-11T10:30:00.000Z",
+				"username": "Shoutout on Rating_Parameter",
+				"review_likes": [
+					{
+						"username": "User",
+						"image": "user1"
+					},
+					{
+						"username": "User2",
+						"image": "user2"
+					},
+					{
+						"username": "User3",
+						"image": "user3"
+					}
+				]
+			}
+		},
+	  { 
+			"id": 2,
+			"name": "AirPods Pro Earphone Wireless",
+			"bg_image": "ratingspic2",
+			"item_image": "ratingsitem2",
+			"brand": "Apple",
+			"score": 4.8,
+			"reviews": 114324,
+			"label": "+SC 300M",
+			"hype_review": {
+				"content": "Here Goes The User's Shoutout Message",
+				"review_date": "2021-06-11T17:30:00.000Z",
+				"username": "Shoutout on Rating_Parameter",
+				"review_likes": [
+					{
+						"username": "User",
+						"image": "user1"
+					},
+					{
+						"username": "User2",
+						"image": "user2"
+					},
+					{
+						"username": "User3",
+						"image": "user3"
+					}
+				]
+			}
+		},
+		{ 
+			"id": 3,
+			"name": "Nike Unveils New Joyride Cushioning Technology",
+			"bg_image": "ratingspic3",
+			"item_image": false,
+			"brand": "Nike",
+			"score": 4.8,
+			"reviews": 114324,
+			"label": false,
+			"hype_review": {
+				"content": "Here Goes The User's Shoutout Message",
+				"review_date": "2021-06-11T17:30:00.000Z",
+				"username": "Shoutout on Rating_Parameter",
+				"review_likes": [
+					{
+						"username": "User",
+						"image": "user1"
+					},
+					{
+						"username": "User2",
+						"image": "user2"
+					},
+					{
+						"username": "User3",
+						"image": "user3"
+					}
+				]
+			}
+		},
+		{ 
+			"id": 4,
+			"name": "Nike Air Force 1 Shadow Pastel",
+			"bg_image": "ratingspic4",
+			"item_image": false,
+			"brand": "Stojo",
+			"score": 4.8,
+			"reviews": 114324,
+			"label": false,
+			"hype_review": {
+				"content": "Here Goes The User's Shoutout Message",
+				"review_date": "2021-06-11T17:30:00.000Z",
+				"username": "Shoutout on Rating_Parameter",
+				"review_likes": [
+					{
+						"username": "User",
+						"image": "user1"
+					},
+					{
+						"username": "User2",
+						"image": "user2"
+					},
+					{
+						"username": "User3",
+						"image": "user3"
+					}
+				]
+			}
+		}
+	],
+	
+	"perks": [
+		{
+			"id" : 1,
+			"name": "Traveling",
+			"items": [
+				{
+					"id": 1,
+					"image": "perkTraveling1"
+				},
+				{
+					"id" :2,
+					"image": "perkTraveling2"
+				},
+				{
+					"id": 3,
+					"image": "perkTraveling3"
+				},
+				{
+					"id": 4,
+					"image": "perkTraveling4"
+				},
+				{
+					"id": 5,
+					"image": "perkTraveling5"
+				},
+				{
+					"id": 6,
+					"image": "perkTraveling6"
+				}
+			]
+		},
+		
+		{
+			"id" : 2,
+			"name": "Fashion",
+			"items": [
+				{
+					"id": 1,
+					"image": "perkFashion1"
+				},
+				{
+					"id" :2,
+					"image": "perkFashion2"
+				},
+				{
+					"id": 3,
+					"image": "perkFashion3"
+				},
+				{
+					"id": 4,
+					"image": "perkFashion4"
+				},
+				{
+					"id": 5,
+					"image": "perkFashion5"
+				},
+				{
+					"id": 6,
+					"image": "perkFashion6"
+				}
+			]
+		}
+	],
+
+	"journals": [
+		{
+			"id": 1,
+			"title": "6 Tips for Creating an Unboxing Video",
+			"username": "Firda",
+			"userImage": "user1",
+			"group": "Socialights",
+			"image": "journal1"
+		},
+		{
+			"id": 2,
+			"title": "How to Create Unboxing Videos",
+			"username": "Firda",
+			"userImage": "user2",
+			"group": "Socialights",
+			"image": "journal2"
+		},
+		{
+			"id": 3,
+			"title": "4 Ways to find favorite product review",
+			"username": "Firda",
+			"userImage": "user3",
+			"group": "Socialights",
+			"image": "journal3"
+		},
+		{
+			"id": 4,
+			"title": "4 Tips of making decision before purchase",
+			"username": "Firda",
+			"userImage": "user1",
+			"group": "Socialights",
+			"image": "journal4"
+		}
+	]
+}
